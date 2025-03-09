@@ -3,6 +3,7 @@
 ✅https://www.veed.io/view/f7e50972-907a-40b9-896c-1e5a6e85a40e?panel=share
 
 # Pics
+✅Multilingual Translation Available 
 
 ![image](https://github.com/user-attachments/assets/cf607442-def3-4a9f-8bf7-197b241eb79f)
 
