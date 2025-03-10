@@ -2,6 +2,12 @@
 
 ✅https://www.veed.io/view/f7e50972-907a-40b9-896c-1e5a6e85a40e?panel=share
 
+# Description:
+
+-Developed a privacy-enabled multilingual translator that runs entirely on local machines using open-source MarianMT model, ensuring 100% data security for businesses with strict privacy and safety concerns.
+
+-Integrated OCR functionality to extract and translate text from image files, enhancing usability for document processing and multilingual content handling.
+
 # Pics
 ✅Multilingual Translation Available 
 
